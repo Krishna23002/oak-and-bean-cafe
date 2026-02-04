@@ -72,6 +72,11 @@ nav h1{
     cursor: pointer;
 }
 
+.hero button a{
+    text-decoration: none;
+    color: black;
+}
+
 .trust{
     display: flex;
     justify-content: space-around;
